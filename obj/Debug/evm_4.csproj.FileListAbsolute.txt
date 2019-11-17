@@ -1,0 +1,6 @@
+C:\Users\NULS\source\repos\evm_4\evm_4\bin\Debug\evm_4.exe.config
+C:\Users\NULS\source\repos\evm_4\evm_4\bin\Debug\evm_4.exe
+C:\Users\NULS\source\repos\evm_4\evm_4\bin\Debug\evm_4.pdb
+C:\Users\NULS\source\repos\evm_4\evm_4\obj\Debug\evm_4.csprojAssemblyReference.cache
+C:\Users\NULS\source\repos\evm_4\evm_4\obj\Debug\evm_4.exe
+C:\Users\NULS\source\repos\evm_4\evm_4\obj\Debug\evm_4.pdb
